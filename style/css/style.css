@@ -1,0 +1,12 @@
+.widget_form , .show-rule{
+	width: 400px;
+	margin: 50px auto ;
+	padding: 20px;
+	border: 1px solid #CCC
+}
+.show-rule{
+	width: auto;
+}
+.recomend{
+	margin: 50px 30px;
+}
